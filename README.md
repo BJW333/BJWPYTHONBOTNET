@@ -17,4 +17,4 @@ Options:
 ```
 
 # WARNING
-I will not be responsible for any of your actions as declared in the lin
+I will not be responsible for any of your actions as declared in the license.
