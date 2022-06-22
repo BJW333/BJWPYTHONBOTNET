@@ -17,4 +17,4 @@ Options:
 ```
 
 # WARNING
-This is just a sample project, I will not be responsible for any of your actions.
+I will not be responsible for any of your actions as declared in the lin
